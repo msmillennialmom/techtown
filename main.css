@@ -1,0 +1,24 @@
+@import url('https://fonts.google.com/?selection.family=Catamaran');
+Body {
+  margin: 0;
+}
+
+  #nav{
+    height: 40px;
+    background: gray;
+  }
+  #nav ul {
+    margin: 0;
+    padding: 0;
+
+  }
+  #nav ul li {
+    list-style: none;
+  }
+  #nav ul li a{
+    text-decoration: none;
+    float:left;
+    display: block;
+    padding: 10px 20px;
+    
+  }
